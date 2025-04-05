@@ -10,7 +10,7 @@ A solução é composta por três partes principais:
 - Treinamento de um modelo LSTM (Long Short-Term Memory).
 
 
-![Fluxo do modelo LSTM](docs/diagrama da arquitetura.png)
+![Arquitetura](docs/arquitetura.png) 
 
 
 ## 💡 Finalidade
@@ -24,8 +24,6 @@ O projeto tem como foco:
 ---
 
 ## 📂 Estrutura do Projeto
-
-# 🧱 Estrutura por Responsabilidade
 
 Esta seção descreve a organização do projeto com base nas **responsabilidades funcionais** de cada módulo, abstraindo detalhes de arquivos individuais. A estrutura foi pensada para garantir **separação de preocupações**, **facilidade de manutenção** e **expansibilidade futura**.
 
