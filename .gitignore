@@ -1,0 +1,119 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C Extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtualenv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+dev/
+
+# pyenv
+.python-version
+
+# PDM
+__pypackages__/
+
+# FastAPI specific files
+startup.sh
+*.log
+*.pid
+*.gz
+
+# Serverless/Azure functions artifacts
+local.settings.json
+storage/
+
+# pytest
+.cache/
+.pytest_cache/
+
+# VS Code configuration files
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore files related to Docker
+*.log
+*.lock
+docker-compose.override.yml
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.pid
+*.gz
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+pytest_cache/
+cover/
+
+# Ignore editor specific files
+*.swp
+*.swo
+.idea/
+
+# Ignore zip/tar files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore Python virtual environment directories
+venv/
+ENV/
+.env/
