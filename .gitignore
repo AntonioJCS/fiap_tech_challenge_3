@@ -34,6 +34,11 @@ Thumbs.db
 *.db
 *.sqlite3
 
+# Arquivos de Midia
+*.mp4
+*.avi
+*.mkv
+
 # Logs
 *.log
 
