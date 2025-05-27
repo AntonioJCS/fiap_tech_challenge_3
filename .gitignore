@@ -1,0 +1,42 @@
+# Pastas comuns Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+ENV/
+.virtualenv/
+
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração
+*.ini
+*.cfg
+*.yaml
+*.yml
+
+# Arquivos SQLite e outros bancos locais
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Certificados e segurança
+*.pem
+*.key
